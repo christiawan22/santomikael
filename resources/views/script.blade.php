@@ -1,9 +1,9 @@
 <!-- JAVASCRIPT FILES -->
-<script src="{{ asset('/js/jquery.min.js') }}"></script>
-<script src="{{ asset('/js/bootstrap.bundle.min.js') }}"></script>
-<script src="{{ asset('/js/jquery.sticky.js') }}"></script>
-<script src="{{ asset('/js/aos.js') }}"></script>
-<script src="{{ asset('/js/jquery.magnific-popup.min.js') }}"></script>
-<script src="{{ asset('/js/magnific-popup-options.js') }}"></script>
-<script src="{{ asset('/js/scrollspy.min.js') }}"></script>
-<script src="{{ asset('/js/custom.js') }}"></script>
+<script src="./js/jquery.min.js'"></script>
+<script src="./js/bootstrap.bundle.min.js"></script>
+<script src="./js/jquery.sticky.js"></script>
+<script src="./js/aos.js"></script>
+<script src="./js/jquery.magnific-popup.min.js"></script>
+<script src="./js/magnific-popup-options.js"></script>
+<script src="./js/scrollspy.min.js"></script>
+<script src="./js/custom.js"></script>
